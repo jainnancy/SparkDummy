@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\dh207290\workspace\SparkDummy\target\scala-2.11\sparkdummy_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\dh207290\workspace\SparkDummy\target\scala-2.11\classes\edu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu\dunnhumby[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\dh207290\workspace\SparkDummy\target\scala-2.11\classes\edu\dunnhumby[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu\dunnhumby\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\dh207290\workspace\SparkDummy\target\scala-2.11\classes\edu\dunnhumby\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu\dunnhumby\com\HelloSpark$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\dh207290\workspace\SparkDummy\target\scala-2.11\classes\edu\dunnhumby\com\HelloSpark$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu\dunnhumby\com\HelloSpark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\dh207290\workspace\SparkDummy\target\scala-2.11\classes\edu\dunnhumby\com\HelloSpark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
